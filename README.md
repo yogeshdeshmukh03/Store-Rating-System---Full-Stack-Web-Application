@@ -10,7 +10,7 @@
 A full-stack application for rating and reviewing stores, featuring separate interfaces for Users, Store Owners, and Admins.
 
 Store Rating System - Full Stack Web Application
-Live Demo: https://www.youtube.com/watch?v=fecxs_GVXm4
+Live Demo: https:
 A comprehensive store rating and management system built with React (TypeScript) frontend and Node.js/Express backend with PostgreSQL database.
 
 ## 🚀 Deployment Guide
@@ -24,7 +24,7 @@ This project is structured to be deployed with:
 
 ### 1. Database Setup (MongoDB Atlas)
 
-1.  Create a cluster on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
+1.  Create a cluster on [MongoDB Atlas]
 2.  Create a database user (username/password).
 3.  Allow access from anywhere (`0.0.0.0/0`) in Network Access (or whitelist Render's IP if possible).
 4.  Get the Connection String (e.g., `mongodb+srv://<username>:<password>@cluster0.mongodb.net/shop-rating?retryWrites=true&w=majority`).
@@ -34,7 +34,7 @@ This project is structured to be deployed with:
 ### 2. Backend Deployment (Render)
 
 1.  Push this repository to GitHub.
-2.  Log in to [Render](https://render.com/).
+2.  Log in to [Render]
 3.  Click **New +** -> **Web Service**.
 4.  Connect your GitHub repository.
 5.  **Settings**:
@@ -53,7 +53,7 @@ This project is structured to be deployed with:
 
 ### 3. Frontend Deployment (Vercel)
 
-1.  Log in to [Vercel](https://vercel.com/).
+1.  Log in to 
 2.  Click **Add New...** -> **Project**.
 3.  Import your GitHub repository.
 4.  **Project Settings**:
@@ -69,7 +69,7 @@ This project is structured to be deployed with:
 
 ### 4. Final Configuration
 
-1.  After Frontend deployment, copy the Vercel URL (e.g., `https://rately.vercel.app`).
+1.  After Frontend deployment, copy the Vercel URL (e.g., 
 2.  Go back to **Render** -> **Environment Variables**.
 3.  Update/Add `CLIENT_URL` with the Vercel URL.
 4.  **Redeploy** the Backend Service on Render to apply the CORS change.
@@ -82,4 +82,4 @@ This project is structured to be deployed with:
 - `backend/`: Node.js/Express API
 - `root`: Deployment configuration
 
-- ## Live Demo PHP-old  : https://www.youtube.com/watch?v=fecxs_GVXm4  
+- ## Live Demo PHP-old  :
