@@ -1,8 +1,8 @@
 # Rately - Store Rating System - Full Stack Web Application | MongoDB |  MERN stack  | Upadated - adding ai chatbot 
 
- ## Website Live 🌐  : https://rately-ten.vercel.app/  
- ## Demo Video Part-2 | New MERN stack : https://youtu.be/W1AGJ3NJ0Xg?si=N2bpVTyYSSQgKJCl
- ## Demo Video Part-1 | Old PostgreSQL website demo  : https://www.youtube.com/watch?v=fecxs_GVXm4  
+ ## Website Live 🌐  : 
+
+
 
  
 ## Github Repo link :Upadating - adding ai chatbot , smooth login -option- continue with google account : https://github.com/Abhijayshah/Rately_1
