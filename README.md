@@ -5,8 +5,7 @@
 
 
  
-## Github Repo link :Upadating - adding ai chatbot , smooth login -option- continue with google account : https://github.com/Abhijayshah/Rately_1
-
+## Github Repo link :Upadating - adding ai chatbot , smooth login -option- continue with google account : 
 A full-stack application for rating and reviewing stores, featuring separate interfaces for Users, Store Owners, and Admins.
 
 Store Rating System - Full Stack Web Application
